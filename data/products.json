@@ -1,0 +1,41 @@
+  [
+    {"name":"OPPO F21s pro 5G",
+    "price":245.67,
+    "description":"String",
+    "ratings":4.5,
+    "images":[
+        {
+            "image":"/images/products/.1jpg"
+        }
+    ],
+    "category":"Mobile phones",
+    "seller":"Amazon",
+    "stock":5},
+
+    {"name":"OPPO F21s pro 5G",
+    "price":245.67,
+    "description":"good",
+    "ratings":4.5,
+    "images":[
+        {
+            "image":"/images/products/.1jpg"
+        }
+    ],
+    "category":"Mobile phones",
+    "seller":"Amazon",
+    "stock":5},{"name":"OPPO F21s pro 5G",
+    "price":245.67,
+    "description":"String",
+    "ratings":4.5,
+    "images":[
+        {
+            "image":"/images/products/.1jpg"
+        }
+    ],
+    "category":"Mobile phones",
+    "seller":"Amazon",
+    "stock":5}
+
+    
+   
+  ]  
